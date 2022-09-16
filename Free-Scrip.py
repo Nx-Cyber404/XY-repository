@@ -396,11 +396,10 @@ __________________×______________________
  
   Github   :  OMAR-404
 
-  Facebook : Omar Faruk 
+  Facebook : Omar Faruk
+Youtube :Technical Hackers BD
   
-  Youtube : Talha Technology Channel
-  
-  Contact : +8
+  Contact : +8801725897896
 __________________×______________________\033[1;37m""")
 
 class Main:
