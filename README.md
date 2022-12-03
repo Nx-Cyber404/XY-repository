@@ -7,7 +7,7 @@ pkg install tsu
 pip install requests
 pip install mechanize
 pkg install git 
-git clone https://github.com/PAID-X-TOOL/PAID-X-TOOL.git
+git clone https://github.com/PAID-X-TOOL/XY-repository .git
 cd PAID-X-TOOL
 python PAID-SCRIPT.py
 
